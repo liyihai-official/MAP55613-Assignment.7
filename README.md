@@ -1,5 +1,6 @@
 # MAP55613-Assignment.7
 This is the assignment solutions of MAP55613 C Program, the module in Trinity College Dublin.
+## Overview 
 This should be only a short assignment. 
 You will write some code to do a matrix multiplication manually. 
 For the second part, you will “parallelize“ two matrix-matrix multiplications by calling fork() and doing each one in a separate process. 
